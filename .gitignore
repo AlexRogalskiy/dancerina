@@ -1,0 +1,7 @@
+# Temporary folders
+target
+.idea
+
+# Temporary files
+*.log
+*.lck
